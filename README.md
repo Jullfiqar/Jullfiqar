@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jullfiqar
-- 👀 I’m interested in Network Engineering & Front End Web Dev
-- 🌱 I’m currently learning Full Stack Dev & CCNP
-- 💞️ I’m looking to collaborate on Back End Dev
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me Jullfiqar@gmail.com
 
 <!---
